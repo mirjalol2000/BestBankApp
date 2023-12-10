@@ -35,7 +35,7 @@ List
 ```
 ### Demo:
 #### Create user :
-![Create user page ](/Assets/create_user.PNG)
+![Create user page ](/Assets/createUser.PNG)
 
 #### Login :
 ![Login page ](/Assets/login.PNG)
@@ -44,6 +44,6 @@ List
 ![Service page ](/Assets/services.PNG)
 
 #### User services :
-![User service page ](/Assets/user_service.PNG)
+![User service page ](/Assets/userService.PNG)
 
 
