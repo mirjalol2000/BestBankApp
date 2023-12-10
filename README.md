@@ -13,7 +13,6 @@
 - withdraw money
 - show balance
 
-
 #### Add user
 ###### need to enter
 ###### username : *john*
@@ -28,5 +27,9 @@
 ###### need to account number
 ###### account : *123456789*
 
-
-### Login using username and password
+**Types**:
+```cs
+int
+string
+List
+```
