@@ -35,5 +35,5 @@ List
 ```
 ### Demo:
 
-![](./BestBankApp/Assets/login.PNG)
+![Login page ](/Assets/login.PNG)
 
