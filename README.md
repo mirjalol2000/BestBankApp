@@ -13,20 +13,18 @@
 - withdraw money
 - show balance
 ```
-####Add user
 ```cs
+####Add user
 need to enter
 username : *john*
 password : *123*
-```
+
 ####Login
-```cs
 need to know
 username : *john*
 password : *123*
-```
+
 ####Delete user
-```cs
 need to account number
 account : *123456789*
 ```
