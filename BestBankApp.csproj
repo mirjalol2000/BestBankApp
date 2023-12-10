@@ -51,5 +51,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="Assets\create user.PNG" />
+    <Content Include="Assets\login.PNG" />
+    <Content Include="Assets\services.PNG" />
+    <Content Include="Assets\user _service.PNG" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
