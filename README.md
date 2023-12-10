@@ -16,17 +16,17 @@
 
 ####Add user
 > need to enter
-username : *john*
-password : *123*
+> username : *john*
+> password : *123*
 
 ####Login
 > need to know
-username : *john*
-password : *123*
+> username : *john*
+> password : *123*
 
 ####Delete user
 > need to account number
-account : *123456789*
+> account : *123456789*
 
 
 ### Login using username and password
