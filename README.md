@@ -8,12 +8,12 @@
 
 
 **Services**:
-```cs
+
 - deposit money
 - withdraw money
 - show balance
-```
-```cs
+
+
 ####Add user
 need to enter
 username : *john*
@@ -27,6 +27,6 @@ password : *123*
 ####Delete user
 need to account number
 account : *123456789*
-```
+
 
 ### Login using username and password
